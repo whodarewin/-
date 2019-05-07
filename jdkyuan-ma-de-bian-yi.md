@@ -17,7 +17,8 @@
 ```   
    3. 编译
 ```
-bash ./configure --with-freetype=/usr/local/opt/freetype --disable-zip-debug-info --disable-warnings-as-errors --with-debug-level=slowdebug 2>&1 | tee configure_mac_x64.log
+bash ./configration
+make all
 ```
 
 
