@@ -25,6 +25,7 @@ make all
 ```
    注释generated-configure.sh的20061和21640行（common/autoconf/generated-configure.sh）
 ```
-   2. 
+   2. https://github.com/hgomez/obuildfactory/issues/51
+   3. 
 
 
