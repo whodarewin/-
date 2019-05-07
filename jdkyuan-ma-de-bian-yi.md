@@ -25,5 +25,6 @@ make all
 ```
    注释generated-configure.sh的20061和21640行（common/autoconf/generated-configure.sh）
 ```
+   2. 
 
 
