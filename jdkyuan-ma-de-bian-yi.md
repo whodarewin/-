@@ -27,5 +27,10 @@ make all
 ```
    2. https://github.com/hgomez/obuildfactory/issues/51
    3. https://bugs.openjdk.java.net/browse/JDK-8033898?page=com.atlassian.jira.plugin.system.issuetabpanels%3Aall-tabpanel
+```
+make all COMPILER_WARNINGS_FATAL=false LFLAGS='-Xlinker -lstdc++' CC=clang USE_CLANG=true LP64=1
+```
+   4. friend declaration specifying a default argument must be a definition
+   https://juejin.im/entry/5a6c36af6fb9a01cb64f05b8
 
 
