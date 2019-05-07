@@ -26,6 +26,6 @@ make all
    注释generated-configure.sh的20061和21640行（common/autoconf/generated-configure.sh）
 ```
    2. https://github.com/hgomez/obuildfactory/issues/51
-   3. 
+   3. https://bugs.openjdk.java.net/browse/JDK-8033898?page=com.atlassian.jira.plugin.system.issuetabpanels%3Aall-tabpanel
 
 
