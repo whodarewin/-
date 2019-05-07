@@ -20,5 +20,10 @@
 bash ./configration
 make all
 ```
+3. 遇到的问题
+   1. 找不到gcc complier
+```
+   注释generated-configure.sh的20061和21640行（common/autoconf/generated-configure.sh）
+```
 
 
